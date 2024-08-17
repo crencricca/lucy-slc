@@ -50,7 +50,7 @@ h2 {
     flex-direction: row;
 }
 
-.moving > .rules > h2{
+.moving > .rules > h2 {
     text-shadow: 1px 1px rgb(117, 159, 188);
 }
 

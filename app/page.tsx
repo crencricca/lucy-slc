@@ -36,14 +36,14 @@ export default function Home() {
             <h3>Fees</h3>
             <p>There are fees to transfer in & out of the building (change ownership or residents). Fees will be itemized when you meet with the building manager.</p>
 
-            <h3>New Resident's Welcome Meeting</h3>
+            <h3>{`New Resident's Welcome Meeting`}</h3>
             <p>All new residents are required to meet with the board of trustees after moving into the LUCY.</p>
 
             <h3>Front Lobby</h3>
             <p>All moving must be conducted through the B2 garage and elevator entrances. Nothing should be moved through the front lobby with the multiple sets of glass doors.</p>
 
             <h3>Loading / Unloading</h3>
-            <p>Moving vans must park on the street in front of the building and all materials must enter the building via the B2 garage door and B2 elevator entrance. No parking is allowed on the garage levels or driveways for loading or unloading during moving, other than the resident's own parking stall.</p>
+            <p>Moving vans must park on the street in front of the building and all materials must enter the building via the B2 garage door and B2 elevator entrance. No parking is allowed on the garage levels or driveways for loading or unloading during moving, other than the {`resident's`} own parking stall.</p>
 
             <h3>Education of Movers</h3>
             <p>The resident moving is responsible for conveying these rules to the workers performing the move.</p>
@@ -75,7 +75,7 @@ export default function Home() {
             <p>All residents of the LUCY are responsible to maintain building security. Make certain security doors close behind you when entering or leaving, including garage doors. Do not let anyone you do not know into the building.</p>
 
             <h3>Noise</h3>
-            <p>Noise can be transmitted through the structure of the building and impact other residents. Designated "quiet hours" are from 10 pm to 8 am. Keep noise to a minimum in the hallways.</p>
+            <p>Noise can be transmitted through the structure of the building and impact other residents. Designated quiet hours are from 10 pm to 8 am. Keep noise to a minimum in the hallways.</p>
 
             <h3>Owner Conduct</h3>
             <p>Owners, Residents, and their guests are expected to conduct themselves civilly and respectfully at all times. Demeaning language, vulgarity, and other disruptive behaviors are prohibited.</p>
